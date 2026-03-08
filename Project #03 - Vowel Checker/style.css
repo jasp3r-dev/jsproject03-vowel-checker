@@ -58,7 +58,7 @@ button {
     font-weight: bold;
     color: #fff;
     cursor: pointer;
-    transition: background-color ease 0.6ms;
+    transition: background-color 0.2s ease-in-out;
 }
 
 button:hover {
@@ -70,3 +70,4 @@ button:hover {
     font-weight: bold;
 
 }
+
